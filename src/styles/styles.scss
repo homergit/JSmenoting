@@ -1,0 +1,17 @@
+body {
+  color: red;
+}
+
+.secondary {
+  &_title {
+    background-color: azure;
+  }
+}
+
+a {
+  display: inline-block;
+  margin: 10px;
+  padding: 20px;
+  background-color: bisque;
+  border-radius: 20px;
+}
